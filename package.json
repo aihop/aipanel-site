@@ -7,7 +7,9 @@
     "build": "vite build"
   },
   "dependencies": {
-    
+    "entities": "^8.0.0",
+    "libsql": "^0.5.29",
+    "parse5": "^8.0.1"
   },
   "devDependencies": {
     "vite": "^5.4.0",
