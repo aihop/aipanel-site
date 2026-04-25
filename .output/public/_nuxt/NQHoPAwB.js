@@ -1,0 +1,1 @@
+import{g as u,at as l,af as n}from"./CDFeTUpx.js";const i=()=>{const r=l();n();const t=u(),s=e=>r.push(a(e)),a=e=>{const o=e.startsWith("/")?e:`/${e}`;return t.locale.value!=="en"&&!o.startsWith(`/${t.locale.value}`)?o==="/"?`/${t.locale.value}`:`/${t.locale.value}${o}`:o};return{localePush:s,localePath:a}};export{i as u};
