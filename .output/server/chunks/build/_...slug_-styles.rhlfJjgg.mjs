@@ -1,2 +1,0 @@
-const a=[".page-fade-enter-active[data-v-6c8f4a7c],.page-fade-leave-active[data-v-6c8f4a7c]{transition:opacity .18s ease}.page-fade-enter-from[data-v-6c8f4a7c],.page-fade-leave-to[data-v-6c8f4a7c]{opacity:0}"];export{a as default};
-//# sourceMappingURL=_...slug_-styles.rhlfJjgg.mjs.map
